@@ -1,4 +1,4 @@
-# Desafio do Projeto - Criando um Jogo de Memória com Javascript
+# Desafio: Criando um Jogo de Memória com Javascript
 
 * OBJETIVO:
 
