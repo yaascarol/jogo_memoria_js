@@ -5,7 +5,6 @@ body {
     justify-content: center;
     align-items: center;
     min-height: 100vh;
-    background-color: #9ff8b6;
 }
 
 main {
@@ -17,6 +16,7 @@ main {
     gap: 30px;
     background: linear-gradient(325deg, #03001e 0%, #7303c0 30%, #ec38bc 70%, #fdeff9 100%);
     padding: 40px 60px;
+    border-radius: 50px;
 }
 
 h2 {
@@ -72,7 +72,6 @@ h2 {
     position: absolute;
     inset: 0;
     background: #404040;
-    opacity: 50%;
     transition: 0.25s;
     transform: rotateY(0deg);
     backface-visibility: hidden;
